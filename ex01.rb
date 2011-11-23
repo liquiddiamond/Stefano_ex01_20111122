@@ -126,4 +126,3 @@ puts Stringed.hasStrings?
 #following should not work! :-P //instance method
 #puts "\r\nQuante corde hanno gli strumenti a corde?" 
 #puts Stringed.numberOfStrings
-
