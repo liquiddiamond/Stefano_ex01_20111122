@@ -1,3 +1,5 @@
+# Stefano say hi to pirates!
+
 class Stringed
     @what = "[silence]"
     @name = ""
